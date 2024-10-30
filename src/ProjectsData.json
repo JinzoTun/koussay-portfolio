@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Shope",
+    "about": "",
+    "github": "https://github.com/JinzoTun/ShopE",
+    "live": "https://shop-e-three.vercel.app/",
+    "tools": ["javascript", "Node js", "Tailwind", "API"],
+    "image": "./images/shope.png"
+  }
+]
