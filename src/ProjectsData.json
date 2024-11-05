@@ -1,10 +1,18 @@
 [
   {
     "title": "Shope",
-    "about": "",
+    "about": "A simple e-commerce website where you can buy products and add them to the cart. You can also filter products by category and search for products.",
     "github": "https://github.com/JinzoTun/ShopE",
     "live": "https://shop-e-three.vercel.app/",
     "tools": ["javascript", "Node js", "Tailwind", "API"],
     "image": "./images/shope.png"
+  },
+  {
+    "title": "Nook",
+    "about": " Reddit clone where you can post, comment, upvote, and downvote. You can also filter posts by category and search for posts.",
+    "github": "https://github.com/JinzoTun/nook",
+    "live": "https://nook-ipue.vercel.app/",
+    "tools": ["TypeScript", "Node js", "Tailwind", "API"],
+    "image": "./images/nook.png"
   }
 ]
