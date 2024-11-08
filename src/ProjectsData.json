@@ -14,5 +14,15 @@
     "live": "https://nook-ipue.vercel.app/",
     "tools": ["TypeScript", "Node js", "Tailwind", "API"],
     "image": "./images/nook.png"
+  },
+  {
+
+    "title": "Book Slayer",
+    "about": "Book slayer is books libray where you can search for books and download them. You can also filter books by category and search for books.", 
+    "github": "https://github.com/JinzoTun/Nextjs_website",
+    "live": "https://nextjs-website-jinzotun.vercel.app/?category=all",
+    "tools": ["TypeScript","NextJs", "Sanity.io", "Tailwind","Clerk", "API"],
+    "image": "./images/BookSlayer.png"
+
   }
 ]

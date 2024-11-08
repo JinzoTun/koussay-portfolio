@@ -43,8 +43,8 @@ const Contact = () => {
       e.target.project.value !== ""
     ) {
       emailjs.sendForm(
-        "service_2glpfun",
-        "template_4xoqvvp",
+        "service_0m5mynq",
+        "template_q06hf4n",
         form.current,
         "Samb7xbDnjS7coTnz"
       );
