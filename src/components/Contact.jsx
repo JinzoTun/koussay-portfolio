@@ -45,7 +45,8 @@ const Contact = () => {
       emailjs.sendForm(
         "service_0m5mynq",
         "template_q06hf4n",
-        form.current
+        form.current,
+        "bkj783yhWXNKnBaFJ"
       );
       e.target.reset();
     }
