@@ -1,9 +1,11 @@
 import React from "react";
 import myResume from "../assets/koussayCV.pdf";
+import ScrollDown from "./ScrollDown";
+
 
 const Data = () => {
   return (
-    <div className=" max-sm:px-6 max-sm:mt-4 w-full">
+    <div className="  h-full items-center max-sm:px-6 max-sm:mt-4 w-full">
       <h1 className="flex text-zinc-800 font-semibold whitespace-normal items-center text-[4rem] gap-2 max-sm:text-[8vw] max-sm:gap-1 max-sm:whitespace-nowrap Topfall">
         Koussay Hajri
         <span className="animate-[wiggle_2s_ease-in-out_infinite] ">
@@ -125,6 +127,8 @@ const Data = () => {
           </a>
         
       </div>
+      <div className="flex w-full justify-center align-bottom min-h-full" >   <ScrollDown /></div>
+   
       
     </div>
   );
